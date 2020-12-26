@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Random;
 
 public class Game {
+
     static int[] canvas = {0, 0, 0,
             0, 0, 0,
             0, 0, 0};
